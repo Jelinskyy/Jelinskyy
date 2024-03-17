@@ -1,1 +1,1 @@
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jelinskyy&layout=compact&theme=transparent&exclude_repo=Pong)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jelinskyy&layout=compact&theme=transparent&exclude_repo=Pong&langs_count=8)
