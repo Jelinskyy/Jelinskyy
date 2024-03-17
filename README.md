@@ -1,2 +1,2 @@
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jelinskyy&layout=compact&theme=transparent)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jelinskyy&layout=compact&theme=transparent&exclude_repo=pong)
 ](https://github.com/anuraghazra/github-readme-stats)
