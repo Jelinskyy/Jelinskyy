@@ -1,1 +1,1 @@
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jelinskyy&layout=compact&theme=github_dark&size_weight=0.5&count_weight=0.5&hide=blade,twig,Vue)
+[![Most Used Languages](https://helio-github-stats.vercel.app/api/top-langs?username=Jelinskyy&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+Used+Languages&hide=Twig%2C+Blade%2C+Vue&size_weight=0.7&count_weight=1.1)]
